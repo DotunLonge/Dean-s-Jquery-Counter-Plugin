@@ -38,23 +38,23 @@ $(function(){
                 if($(".super-fast").data('format') == 'percentage'){
                 setTimeout(function(){
                      $('.super-fast' + "  h4").text(b+"%");
-                        6 * b++ + 6 * b++ + 6 * b++ + 6 * b++ + 6 * b++;
+                         b++ + b++ + b++ + b++ + b++ + b++ + b++ + b++ + b++ + b++ + b++ + b++ + b++ + b++ + b++ + b++ + b++  ;
                   if(b <= $(".super-fast" ).data('number') ){
                      count2();
 
                   }
-                }, 0.1);
+                }, 0.0000000001);
             }
 
                 if($(".super-fast").data('format') == 'plain'){
                 setTimeout(function(){
                          $('.super-fast' + "  h4").text(b);
-                           6 * b++ + 6 * b++ + 6 * b++ + 6 * b++ + 6 * b++;
+                             b++ + b++ + b++ + b++ + b++ + b++ + b++ + b++ + b++ + b++ + b++ + b++ + b++ + b++ + b++ + b++ + b++  ;
                       if(b <= $(".super-fast").data('number') ){
                          count2();
 
                       }
-                    }, 0.1);
+                    }, 1);
 
         }
         }
