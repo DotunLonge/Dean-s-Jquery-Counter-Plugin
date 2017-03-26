@@ -4,7 +4,7 @@ A Jquery plugin for creating an html element that counts from 0 to your desired 
 there a two speed levels, decent and super-fast.
 
 
-<h1>How-To</h1>: <br>
+<h1>How-To</h1> <br>
 add the class 'decent' or 'super-fast' to your div element.
 
 add 'data-number' to the div element and input the value into quotes like so: data-number = "90";
